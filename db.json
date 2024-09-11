@@ -93,7 +93,7 @@
     },
     {
         "id": 34,
-        "image": "/images/shoes4.jpg",
+        "image": "/images/shoes4.avif",
         "title": "Woodland brown boots",
         "category": "shoes",
         "price": "1600",
@@ -220,7 +220,7 @@
     },
     {
         "id": 40,
-        "image": "/images/shoes10.jpg",
+        "image": "/images/shoes10.avif",
         "title": "Adidas samba",
         "category": "shoes",
         "price": "1899",
@@ -284,7 +284,7 @@
     },
     {
         "id": 35,
-        "image": "/images/shoes5.jpg",
+        "image": "/images/shoes5.avif",
         "title": "White converse chuck tailor",
         "category": "shoes",
         "price": "1450",
@@ -292,7 +292,7 @@
     },
     {
         "id": 36,
-        "image": "/images/shoes6.jpg",
+        "image": "/images/shoes6.avif",
         "title": "Formal brown shoes",
         "category": "shoes",
         "price": "1250",
