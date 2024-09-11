@@ -68,11 +68,35 @@
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
+        "id": 32,
+        "image": "/images/shoes2.jpg",
+        "title": "white skating shoes",
+        "category": "shoes",
+        "price": "1199",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 33,
+        "image": "/images/shoes3.webp",
+        "title": "grey puma shoes",
+        "category": "shoes",
+        "price": "1350",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
         "id": 10,
         "image": "/images/girl1.jpg",
         "title": "White T-shirt",
         "category": "women's clothing",
         "price": "400",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 34,
+        "image": "/images/shoes4.jpg",
+        "title": "Woodland brown boots",
+        "category": "shoes",
+        "price": "1600",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
@@ -82,6 +106,13 @@
         "category": "women's clothing",
         "price": "800",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 23,
+        "image": "/images/men10.jpg",
+        "title": "Navy Blue coat Men",
+        "category": "men's clothing",
+        "price": "1500"
     },
     {
         "id": 12,
@@ -100,36 +131,19 @@
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
-        "id": 8,
-        "image": "/images/men8.jpg",
-        "title": "light blue Hoodie",
-        "category": "men's clothing",
-        "price": "799",
+        "id": 28,
+        "image": "/images/watch8.webp",
+        "title": "Rolex chain watch",
+        "category": "watches",
+        "price": "5450",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
-    {
-        "id": 9,
-        "image": "/images/men9.jpg",
-        "title": "Brown modern coat",
-        "category": "men's clothing",
-        "price": "1200",
-        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
-    },
-
     {
         "id": 13,
         "image": "/images/girl4.jpg",
         "title": "charcoal Checked coat women",
         "category": "women's clothing",
         "price": "1200",
-        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
-    },
-    {
-        "id": 14,
-        "image": "/images/girl5.jpg",
-        "title": "White cactus printed T-Shirt",
-        "category": "women's clothing",
-        "price": "500",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
@@ -141,11 +155,43 @@
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
+        "id": 20,
+        "image": "/images/watch1.jpg",
+        "title": "black leather watch",
+        "category": "watches",
+        "price": "1550",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
         "id": 4,
         "image": "/images/men4.jpg",
         "title": "modern black coat",
         "category": "men's clothing",
         "price": "600",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 25,
+        "image": "/images/watch5.jpg",
+        "title": "Smart watch",
+        "category": "watches",
+        "price": "1600",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 26,
+        "image": "/images/watch6.webp",
+        "title": "Casio chain watch",
+        "category": "watches",
+        "price": "1800",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 14,
+        "image": "/images/girl5.jpg",
+        "title": "White cactus printed T-Shirt",
+        "category": "women's clothing",
+        "price": "500",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
@@ -157,11 +203,27 @@
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
-        "id": 6,
-        "image": "/images/men6.jpg",
-        "title": "Burgundy polo sweater",
+        "id": 39,
+        "image": "/images/shoes9.jpg",
+        "title": "White adidas skate shoes",
+        "category": "shoes",
+        "price": "1899",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 9,
+        "image": "/images/men9.jpg",
+        "title": "Brown modern coat",
         "category": "men's clothing",
-        "price": "900",
+        "price": "1200",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 40,
+        "image": "/images/shoes10.jpg",
+        "title": "Adidas samba",
+        "category": "shoes",
+        "price": "1899",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
@@ -173,28 +235,11 @@
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
-        "id": 18,
-        "image": "/images/girl9.jpg",
-        "title": "grey long T-shirt women",
-        "category": "women's clothing",
-        "price": "550",
-        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
-    },
-    {
         "id": 19,
         "image": "/images/girl10.jpg",
         "title": "light grey full sleeve T-shirt",
         "category": "women's clothing",
         "price": "850",
-        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
-    },
-
-    {
-        "id": 20,
-        "image": "/images/watch1.jpg",
-        "title": "black leather watch",
-        "category": "watches",
-        "price": "1550",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
@@ -205,16 +250,112 @@
         "price": "1250",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
-
-
     {
         "id": 22,
+        "image": "/images/watch3.avif",
+        "title": "black leather watch",
+        "category": "watches",
+        "price": "1100",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 24,
+        "image": "/images/watch4.jpg",
+        "title": "chained watch",
+        "category": "watches",
+        "price": "920",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 6,
+        "image": "/images/men6.jpg",
+        "title": "Burgundy polo sweater",
+        "category": "men's clothing",
+        "price": "900",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 27,
+        "image": "/images/watch7.webp",
+        "title": "G-shock white",
+        "category": "watches",
+        "price": "2180",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 35,
+        "image": "/images/shoes5.jpg",
+        "title": "White converse chuck tailor",
+        "category": "shoes",
+        "price": "1450",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 36,
+        "image": "/images/shoes6.jpg",
+        "title": "Formal brown shoes",
+        "category": "shoes",
+        "price": "1250",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 29,
+        "image": "/images/watch9.jpg",
+        "title": "Fast track black chained watch",
+        "category": "watches",
+        "price": "1400",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 30,
+        "image": "/images/watch10.webp",
+        "title": "Quartz blue leather watch",
+        "category": "watches",
+        "price": "1310",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 18,
+        "image": "/images/girl9.jpg",
+        "title": "grey long T-shirt women",
+        "category": "women's clothing",
+        "price": "550",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+
+    {
+        "id": 31,
         "image": "/images/shoes1.jpg",
         "title": "converse chuck tailor",
         "category": "shoes",
         "price": "1499",
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 37,
+        "image": "/images/shoes7.jpg",
+        "title": "Vintage tanned White shoes",
+        "category": "shoes",
+        "price": "1800",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 8,
+        "image": "/images/men8.jpg",
+        "title": "light blue Hoodie",
+        "category": "men's clothing",
+        "price": "799",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
+        "id": 38,
+        "image": "/images/shoes8.jpg",
+        "title": "Adidas skate shoes",
+        "category": "shoes",
+        "price": "1750",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     }
+
     ],
 
     "blogs":[
