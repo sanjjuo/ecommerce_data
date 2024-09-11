@@ -291,6 +291,14 @@
         "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
     },
     {
+        "id": 2,
+        "image": "/images/men2.jpg",
+        "title": "Half sleeve checked shirt",
+        "category": "men's clothing",
+        "price": "900",
+        "description":"Discover a wide range of stylish clothing, watches, and shoes for both men and women. From trendy outfits to elegant timepieces and comfortable footwear, find the perfect accessories to elevate your fashion game. Stay chic and timeless with our curated collection for every occasion!"
+    },
+    {
         "id": 36,
         "image": "/images/shoes6.avif",
         "title": "Formal brown shoes",
